@@ -7,4 +7,6 @@ date: June 26 2023
 So some rules in outlook make some emails hard to find or blocked. A client called and stated that he wasn't receiving all of his emails, only some of them. So immediately I thought of spam blocking, and domain blocking in effect.
 So I logged into his outlook and asked specifically what emails he wasn't getting. He said one in particular that he wasn't receiving. 
 
-I went into the 
+I went into the settings and unchecked focused emails. This is a fairly new option in outlook to bring the intelligently pre-sorts your email so you can focus on what matters in a specific place. So we don't need this.
+
+
