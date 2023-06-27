@@ -13,4 +13,10 @@ I went into the settings and unchecked focused emails. This is a fairly new opti
 
 Next we need to check the rules. Rules will create a method of how to handle incoming emails. It can put them into a specified folder, put them in spam or block them all together. We don't need that unless we are absolutely sure as to where we want to send those designated emails.
 
+![FTP Upload](https://github.com/bnutz1/azerib/blob/main/outlook3.png?raw=true)
 
+And finally we want to make sure the email addresses that we need are not blocked and they are designated as safe senders and domains. This could potentially block emails that we are looking for.
+
+![FTP Upload](https://github.com/bnutz1/azerib/blob/main/outlook4.png?raw=true)
+
+After that, we should be all good. Sent a test email to sender in question and asked him to respond and presto, all done. It went through without a hitch.
